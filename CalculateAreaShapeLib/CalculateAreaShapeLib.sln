@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateAreaShapeLib", "CalculateAreaShapeLib.csproj", "{C0278ED7-8257-4948-8982-3E85210DE7A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Figure.Tests", "..\Figure.Tests\Figure.Tests.csproj", "{D5C7534A-FAD2-4080-BCB8-8737D220426B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0278ED7-8257-4948-8982-3E85210DE7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0278ED7-8257-4948-8982-3E85210DE7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0278ED7-8257-4948-8982-3E85210DE7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0278ED7-8257-4948-8982-3E85210DE7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C7534A-FAD2-4080-BCB8-8737D220426B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C7534A-FAD2-4080-BCB8-8737D220426B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C7534A-FAD2-4080-BCB8-8737D220426B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C7534A-FAD2-4080-BCB8-8737D220426B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C68B636-3AFE-420D-A6A2-AD39CEC66980}
+	EndGlobalSection
+EndGlobal
